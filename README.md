@@ -1,2 +1,2 @@
 # Zip-cracker
-A simple zip cracker that work with Legacy zip files
+A simple zip cracker that only works with Legacy zip files
