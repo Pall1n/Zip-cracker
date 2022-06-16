@@ -1,5 +1,5 @@
 """
-This program works only with Legacy Zip Files
+This program only works with Legacy Zip Files
 Developed by: @Pall1n
 """
 import zipfile
